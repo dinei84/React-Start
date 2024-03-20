@@ -1,0 +1,11 @@
+body{
+  padding: 50px;
+  background-color: rgba(221, 215, 215, 0.514);
+}
+
+h1{
+  color: green;
+}
+p{
+  background-color: dodgerblue;
+}
